@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Bem-vindo ao meu perfil!
 
-<!--
-**pimbosi/pimbosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Olá, eu sou Felipe, estudante de Engenharia de Software na Universidade de Brasília (UnB). Estou sempre em busca de desafios e soluções criativas para problemas computacionais.
 
-Here are some ideas to get you started:
+### 💻 Tecnologias
+- Linguagens: C, C++, Java
+- Web: HTML, CSS, MySQL, PHP, Javascript
+- Ferramentas: Arcserve UDP, ScriptCase, Nagios, Nagvis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- 🚀 Aprendizado rápido
+- 👥 Trabalho em equipe eficaz
+
+## Objetivo
+Estou determinado a contribuir para projetos inovadores enquanto continuo aprendendo e crescendo como desenvolvedor de software.
+
+## Status do GitHub
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=pimbosi&show_icons=true&hide_border=true)
